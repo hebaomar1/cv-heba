@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heba Omar Dawood - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .header {
+            text-align: center;
+        }
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #333;
+        }
+        h1 {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+        .info {
+            margin-top: 20px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .contact, .education {
+            margin-top: 20px;
+        }
+        .contact a {
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <img src="mypic.jpg" alt="Heba Omar Dawood">
+            <h1>Heba Omar Dawood Abayzeid</h1>
+            <p><strong>Logistics Student at Alamein International University</strong></p>
+        </div>
+
+        <div class="info">
+            <h2>📌 Personal Information</h2>
+            <p><strong>Age:</strong> 21</p>
+            <p><strong>Email:</strong> <a href="mailto:Hebaomardawood@gmail.com">Hebaomardawood@gmail.com</a></p>
+            <p><strong>Phone Number:</strong> 01114458123</p>
+            <p><strong>University:</strong> Alamein International University</p>
+            <p><strong>Field of Study:</strong> Logistics</p>
+            <p><strong>Academic Year:</strong> 2nd Year (2024 - Expected Graduation 2025)</p>
+        </div>
+
+        <div class="education">
+            <h2>📌 Education</h2>
+            <p><strong>Alamein International University</strong></p>
+            <p>Bachelor’s Degree in Logistics (2024 - Present)</p>
+        </div>
+
+        <div class="contact">
+            <h2>📌 Contact & Social Media</h2>
+            <p><strong>Email:</strong> <a href="mailto:Hebaomardawood@gmail.com">Hebaomardawood@gmail.com</a></p>
+            <p><strong>Phone:</strong> 01114458123</p>
+            <p><strong>LinkedIn:</strong> <a href="#">Your LinkedIn Profile</a></p>
+        </div>
+    </div>
+
+</body>
+</html>
